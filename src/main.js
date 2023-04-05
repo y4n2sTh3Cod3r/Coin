@@ -35,7 +35,7 @@ MBCCoin.minePendingTransactions(myWalletAddress);
 
 console.log();
 console.log(
-  `Balance of xavier is ${savjeeCoin.getBalanceOfAddress(myWalletAddress)}`
+  `Your balance is ${savjeeCoin.getBalanceOfAddress(myWalletAddress)}`
 );
 
 // Uncomment this line if you want to test tampering with the chain
